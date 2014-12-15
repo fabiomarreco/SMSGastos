@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="smsgastosdb" Class="Smsgastosdb" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="dbo.tbConexaoTagRegistro" Member="TbConexaoTagRegistros">
+    <Type Name="TbConexaoTagRegistro">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IDRegistro" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IDTag" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="TbRegistro_TbConexaoTagRegistro" Member="TbRegistro" ThisKey="IDRegistro" OtherKey="ID" Type="TbRegistro" IsForeignKey="true" />
+      <Association Name="TbTag_TbConexaoTagRegistro" Member="TbTag" ThisKey="IDTag" OtherKey="ID" Type="TbTag" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tbConta" Member="TbContas">
+    <Type Name="TbConta">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nome" Type="System.String" DbType="VarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="Descricao" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Association Name="TbConta_TbRegistro" Member="TbRegistros" ThisKey="ID" OtherKey="IDConta" Type="TbRegistro" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tbContraparte" Member="TbContrapartes">
+    <Type Name="TbContraparte">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nome" Type="System.String" DbType="VarChar(500) NOT NULL" CanBeNull="false" />
+      <Association Name="TbContraparte_TbRegistro" Member="TbRegistros" ThisKey="ID" OtherKey="IDContraparte" Type="TbRegistro" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tbRegistro" Member="TbRegistros">
+    <Type Name="TbRegistro">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IDConta" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="IDContraparte" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Valor" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="Data" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Descricao" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Association Name="TbRegistro_TbConexaoTagRegistro" Member="TbConexaoTagRegistros" ThisKey="ID" OtherKey="IDRegistro" Type="TbConexaoTagRegistro" />
+      <Association Name="TbConta_TbRegistro" Member="TbConta" ThisKey="IDConta" OtherKey="ID" Type="TbConta" IsForeignKey="true" />
+      <Association Name="TbContraparte_TbRegistro" Member="TbContraparte" ThisKey="IDContraparte" OtherKey="ID" Type="TbContraparte" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tbTag" Member="TbTags">
+    <Type Name="TbTag">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nome" Type="System.String" DbType="VarChar(500) NOT NULL" CanBeNull="false" />
+      <Association Name="TbTag_TbConexaoTagRegistro" Member="TbConexaoTagRegistros" ThisKey="ID" OtherKey="IDTag" Type="TbConexaoTagRegistro" />
+    </Type>
+  </Table>
+</Database>

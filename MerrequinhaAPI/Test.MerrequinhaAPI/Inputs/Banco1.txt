@@ -1,0 +1,311 @@
+
+----
+Itau
+07-03-2012:  16.57
+Compra aprovada no seu CARTAO PERS VS PLA M final 8051 - STAR 035 GONCALVE valor RS 14,50 em 07/03, as 16h45.
+--
+----
+Santander
+07-03-2012:  20.10
+{SANTANDER}Santander Informa: Saque em conta corrente efetuado em 07/03/12 as 20:09 no valor de R$ 40,00
+--
+----
+Itau
+07-03-2012:  20.34
+Compra aprovada no seu CARTAO PERS VS PLA M final 8051 - DROG FUTURA SAO S valor RS 37,43 em 07/03, as 20h34.
+--
+----
+Itau
+07-03-2012:  20.50
+Compra aprovada no seu CARTAO PERS VS PLA M final 8051 - ZONA SUL FL 30 valor RS 102,90 em 07/03, as 20h50.
+--
+----
+Itau
+08-03-2012:  12.24
+Itau Personnalite: o saldo de sua conta corrente Itau Personnalite XXX24-8 e de R$ 1.112,74 em 08/03/2012 as 12:24.
+--
+----
+Santander
+08-03-2012:  12.50
+{SANTANDER}Santander Informa: Transacao Cartao VISA final 4860 de R$ 40,92 aprovada em 08/03/12 as 12:49 FOCACCIA
+--
+----
+Santander
+08-03-2012:  13.33
+{SANTANDER}Santander Informa: DOC/TED a debito efetuado em 08/03/12 as 13:32 no valor de R¤ 29.000,00
+--
+----
+Itau
+08-03-2012:  13.38
+Itau Personnalite: realizada TED no valor de R$28.000,00 em 08/03 13:38. Conta debitada: XXX24-8.
+--
+----
+Santander
+08-03-2012:  21.13
+{SANTANDER}Santander Informa: Transacao Visa Electron cartao final 4860 de R¤ 21,00 aprovada em 08/03/12 as 21:12 PIER 22
+--
+----
+Itau
+09-03-2012:  12.33
+Compra aprovada no seu CARTAO PERSON MC PLA final 9411 - BESI CAFE E LOJA valor RS 24,00 em 09/03, as 12h30.
+--
+----
+Itau
+09-03-2012:  13.31
+Itau Personnalite: o saldo de sua conta corrente Itau Personnalite XXX24-8 e de R$ 2.094,70 em 09/03/2012 as 13:29.
+--
+----
+Santander
+09-03-2012:  13.47
+{SANTANDER}Santander Informa: Transacao Visa Electron cartao final 4860 de R$ 29,35 aprovada em 09/03/12 as 13:46 DROGARIAS WILSO
+--
+----
+Itau
+09-03-2012:  16.14
+Compra aprovada no seu CARTAO PERS VS PLA M final 8051 - SKYPE COMMUNICATIO valor RS 25,00 em 09/03, as 16h11.
+--
+----
+Itau
+09-03-2012:  18.49
+ITAU PERSONNALITE: Cartao final 8051 COMPRA APROVADA 09/03 18:48:55 R$ 29,50 Local: TOONTOW V.
+--
+----
+Itau
+10-03-2012:  09.25
+Itau Personnalite: o saldo de sua conta corrente Itau Personnalite XXX24-8 e de R$ 2.034,35 em 10/03/2012 as 09:20.
+--
+----
+Itau
+10-03-2012:  13.37
+Compra aprovada no seu CARTAO PERS VS PLA M final 8051 - SILVANIOS valor RS 40,00 em 10/03, as 13h34.
+--
+----
+Itau
+10-03-2012:  14.46
+Compra aprovada no seu CARTAO PERS VS PLA M final 8051 - INGRESSO.COM valor RS 43,80 em 10/03, as 14h17.
+--
+----
+Itau
+10-03-2012:  21.05
+Compra aprovada no seu CARTAO PERS VS PLA M final 8051 - OLIVIERS E CO valor RS 88,40 em 10/03, as 21h04.
+--
+----
+Itau
+10-03-2012:  21.12
+Compra aprovada no seu CARTAO PERS VS PLA M final 8051 - KINOPLEX FASHION valor RS 18,50 em 10/03, as 21h11.
+--
+----
+Itau
+10-03-2012:  21.12
+Compra aprovada no seu CARTAO PERS VS PLA M final 8051 - KINOPLEX FASHION valor RS 18,50 em 10/03, as 21h11.
+--
+----
+Itau
+11-03-2012:  20.53
+Compra aprovada no seu CARTAO PERS VS PLA M final 8051 - JOE E LEO S valor RS 124,45 em 11/03, as 20h53.
+--
+----
+Itau
+11-03-2012:  21.06
+ITAU PERSONNALITE: Cartao final 8051 SAQUE APROVADO 11/03 21:06:17 R$ 80,00 Local: CX ITAU R GAL SEVERI.
+--
+----
+Itau
+11-03-2012:  21.08
+ITAU PERSONNALITE: Cartao final 8051 COMPRA APROVADA 11/03 21:08:33 R$ 20,00 Local: MULTIPARK.
+--
+----
+Itau
+12-03-2012:  12.37
+Itau Personnalite: o saldo de sua conta corrente Itau Personnalite XXX24-8 e de R$ 1.934,35 em 12/03/2012 as 12:37.
+--
+----
+Itau
+13-03-2012:  05.52
+Compra aprovada no seu PERS MASTER PLATINUM final 9411 - NETFLIX valor RS 14,99 em 13/03, as 05h52.
+--
+----
+Itau
+13-03-2012:  11.07
+Itau Personnalite: o saldo de sua conta corrente Itau Personnalite XXX24-8 e de R$ 1.934,35 em 13/03/2012 as 11:06.
+--
+----
+Santander
+13-03-2012:  20.05
+{SANTANDER}Santander Informa: Saque em conta corrente efetuado em 13/03/12 as 20:04 no valor de R$ 40,00
+--
+----
+Itau
+14-03-2012:  11.44
+Itau Personnalite: o saldo de sua conta corrente Itau Personnalite XXX24-8 e de R$ 1.934,35 em 14/03/2012 as 11:43.
+--
+----
+Itau
+14-03-2012:  18.49
+O saldo acumulado no programa Sempre Presente do seu PERS MASTER PLATINUM e de 102395 pontos ate o momento.
+--
+----
+Itau
+14-03-2012:  18.49
+O total da fatura do seu PERS MASTER PLATINUM com vencimento em 25/03 e de RS 3.015,65. Compras a partir de 13/03 entram nos proximos lancamentos.
+--
+----
+Itau
+15-03-2012:  10.32
+ITAU PERSONNALITE: Cartao final 8051 SAQUE APROVADO 15/03 10:31:36 R$ 80,00 Local: CX ITAU R DAS LARANJ.
+--
+----
+Itau
+15-03-2012:  11.37
+Itau Personnalite: o saldo de sua conta corrente Itau Personnalite XXX24-8 e de R$ 1.854,35 em 15/03/2012 as 11:34.
+--
+----
+Itau
+15-03-2012:  13.46
+Compra aprovada no seu PERSON VISA PLATINUM final 8051 - CENTAURO CE 20 valor RS 209,90 em 15/03, as 13h43.
+--
+----
+Itau
+15-03-2012:  14.47
+Compra aprovada no seu PERSON VISA PLATINUM final 8051 - RASCAL valor RS 125,29 em 15/03, as 14h44.
+--
+----
+Itau
+16-03-2012:  11.38
+Itau Personnalite: o saldo de sua conta corrente Itau Personnalite XXX24-8 e de R$ 1.854,35 em 16/03/2012 as 11:37.
+--
+----
+Santander
+16-03-2012:  20.50
+{SANTANDER}Santander Informa: Saque em conta corrente efetuado em 16/03/12 as 20:49 no valor de R$ 40,00
+--
+----
+Itau
+16-03-2012:  22.21
+Compra aprovada no seu PERSON VISA PLATINUM final 8051 - LUIGIS ZUCCHINE valor RS 80,52 em 16/03, as 22h21.
+--
+----
+Itau
+16-03-2012:  22.27
+Compra aprovada no seu PERSON VISA PLATINUM final 8051 - DROG FUTURA SAO S valor RS 36,94 em 16/03, as 22h27.
+--
+----
+Itau
+17-03-2012:  10.30
+Itau Personnalite: o saldo de sua conta corrente Itau Personnalite XXX24-8 e de R$ 1.854,35 em 17/03/2012 as 10:30.
+--
+----
+Itau
+17-03-2012:  13.11
+ITAU PERSONNALITE: Cartao final 8051 COMPRA APROVADA 17/03 13:11:39 R$ 35,91 Local: LIVRARIA.
+--
+----
+Itau
+17-03-2012:  13.30
+ITAU PERSONNALITE: Cartao final 8051 SAQUE APROVADO 17/03 13:29:59 R$ 40,00 Local: CX ITAU R DAS LARANJ.
+--
+----
+Itau
+18-03-2012: 13.20
+Itau Personnalite: o saldo de sua conta corrente ITAU PERSONNALITE XXX24-8 e de R$ 1.778,44 em 18/03/2012 as 11:59.
+--
+----
+Itau
+19-03-2012: 08.57
+Compra aprovada no seu PERSON VISA PLATINUM final 8051 - ALEGRIA valor RS 106,50 em 18/03, as 22h11.
+--
+----
+Itau
+19-03-2012: 12.06
+Itau Personnalite: o saldo de sua conta corrente ITAU PERSONNALITE XXX24-8 e de R$ 1.778,44 em 19/03/2012 as 12:06.
+--
+----
+Itau
+19-03-2012: 13.33
+Compra aprovada no seu PERSON VISA PLATINUM final 8051 - GUSTATI valor RS 25,06 em 19/03, as 13h30.
+--
+----
+Itau
+19-03-2012: 15.26
+O limite disponivel para compras no seu cartao PERSON VISA PLATINUM em 17/03, as 21h09 e de RS 3.492,41.
+--
+----
+Itau
+19-03-2012: 17.20
+O limite disponivel para compras no seu cartao PERS MASTER PLATINUM em 17/03, as 21h09 e de RS 3.962,07.
+--
+----
+Itau
+20-03-2012: 09.50
+ITAU PERSONNALITE: Cartao final 8051 SAQUE APROVADO 20/03 09:50:52 R$ 80,00 Local: CX ITAU R DAS LARANJ.
+--
+----
+Itau
+20-03-2012: 09.59
+Itau Personnalite: o saldo de sua conta corrente ITAU PERSONNALITE XXX24-8 e de R$ 1.698,44 em 20/03/2012 as 09:59.
+--
+----
+Itau
+20-03-2012: 14.16
+Compra aprovada no seu PERSON VISA PLATINUM final 8051 - STEAK HOUSE valor RS 34,52 em 20/03, as 14h13.
+--
+----
+Itau
+21-03-2012: 15.10
+O total da fatura do seu PERSON VISA PLATINUM com vencimento em 01/04 e de RS 3.891,19. Compras a partir de 20/03 entram nos proximos lancamentos.
+--
+----
+Itau
+21-03-2012: 15.10
+O saldo acumulado no programa Sempre Presente do seu PERSON VISA PLATINUM e de 102395 pontos ate o momento.
+--
+----
+Itau
+21-03-2012: 15.25
+Compra aprovada no seu PERSON VISA PLATINUM final 8051 - IL PICCOLO valor RS 93,17 em 21/03, as 15h22.
+--
+----
+Itau
+21-03-2012: 23.27
+Compra aprovada no seu PERSON VISA PLATINUM final 8051 - THE BIG BEN valor RS 140,80 em 21/03, as 23h27.
+--
+----
+Itau
+21-03-2012: 23.58
+Compra aprovada no seu PERSON VISA PLATINUM final 8051 - BOBS PRAIA DE BOT valor RS 30,60 em 21/03, as 23h58.
+--
+----
+Itau
+22-03-2012: 10.33
+Itau Personnalite: o saldo de sua conta corrente ITAU PERSONNALITE XXX24-8 e de R$ 1.698,44 em 22/03/2012 as 10:33.
+--
+----
+Itau
+22-03-2012: 15.14
+Compra aprovada no seu PERSON VISA PLATINUM final 8051 - FOCACCIA valor RS 68,20 em 22/03, as 15h11.
+--
+----
+Itau
+22-03-2012: 18.30
+ITAU PERSONNALITE: Cartao final 8051 SAQUE APROVADO 22/03 18:30:48 R$ 80,00 Local: CX ITAU PCA PIO X 99.
+--
+----
+Santander
+22-03-2012: 19.30
+{SANTANDER}Santander Informa: Transacao Cartao VISA final 4860 de R$ 203,65 aprovada em 22/03/12 as 19:29 ZONA SUL FL
+--
+----
+Itau
+23-03-2012: 10.08
+Itau Personnalite: o saldo de sua conta corrente ITAU PERSONNALITE XXX24-8 e de R$ 1.618,44 em 23/03/2012 as 10:07.
+--
+----
+Itau
+23-03-2012: 13.33
+Compra aprovada no seu PERSON VISA PLATINUM final 8051 - LINQPAD valor US 39,00 em 23/03, as 13h30.
+--
+----
+Santander
+23-03-2012: 14.20
+{SANTANDER}Santander Informa: Transacao Cartao VISA final 4860 de R$ 26,00 aprovada em 23/03/12 as 14:20 DROGARIA WILSON
+--
